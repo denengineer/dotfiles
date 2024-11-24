@@ -1,0 +1,120 @@
+@define-color ctp-latte-rosewater #dc8a78;
+@define-color ctp-latte-flamingo #dd7878;
+@define-color ctp-latte-pink #ea76cb;
+@define-color ctp-latte-mauve #8839ef;
+@define-color ctp-latte-red #d20f39;
+@define-color ctp-latte-maroon #e64553;
+@define-color ctp-latte-peach #fe640b;
+@define-color ctp-latte-yellow #df8e1d;
+@define-color ctp-latte-green #40a02b;
+@define-color ctp-latte-teal #179299;
+@define-color ctp-latte-sky #04a5e5;
+@define-color ctp-latte-sapphire #209fb5;
+@define-color ctp-latte-blue #1e66f5;
+@define-color ctp-latte-lavender #7287fd;
+@define-color ctp-latte-text #4c4f69;
+@define-color ctp-latte-subtext1 #5c5f77;
+@define-color ctp-latte-subtext0 #6c6f85;
+@define-color ctp-latte-overlay2 #7c7f93;
+@define-color ctp-latte-overlay1 #8c8fa1;
+@define-color ctp-latte-overlay0 #9ca0b0;
+@define-color ctp-latte-surface2 #acb0be;
+@define-color ctp-latte-surface1 #bcc0cc;
+@define-color ctp-latte-surface0 #ccd0da;
+@define-color ctp-latte-base #eff1f5;
+@define-color ctp-latte-mantle #e6e9ef;
+@define-color ctp-latte-crust #dce0e8;
+
+.bar {
+    background-color: @ctp-latte-mantle;
+    color: @ctp-latte-text;
+    font-size: 16px;
+}
+
+button {
+    min-width: 0;
+    padding: 0;
+}
+
+/* button:active {
+    background-color: @theme_selected_bg_color;
+} */
+
+.workspacesButton {
+    background-color: blue;
+}
+
+label {
+    font-weight: bold;
+}
+
+.workspaces button.focused {
+    border-bottom: 3px solid @theme_selected_bg_color;
+}
+
+.notification {
+    color: @ctp-latte-text;
+}
+
+levelbar block,
+highlight {
+    min-height: 10px;
+}
+
+window.notification-popups box.notifications {
+    padding: .5em;
+}
+
+.icon {
+    min-width: 68px;
+    min-height: 68px;
+    margin-right: 1em;
+}
+
+.icon image {
+    font-size: 58px;
+    /* to center the icon */
+    margin: 5px;
+    color: @ctp-latte-text;
+}
+
+.icon box {
+    min-width: 68px;
+    min-height: 68px;
+    border-radius: 7px;
+}
+
+.notification {
+    min-width: 350px;
+    border-radius: 11px;
+    padding: 1em;
+    margin: .5em;
+    border: 1px solid @wm_borders_edge;
+    background-color: @ctp-latte-base;
+}
+
+.notification.critical {
+    border: 1px solid lightcoral;
+}
+
+.title {
+    color: @ctp-latte-text;
+    font-size: 1.4em;
+}
+
+.body {
+    color: @theme_unfocused_fg_color;
+}
+
+.actions .action-button {
+    margin: 0 .4em;
+    margin-top: .8em;
+}
+
+.actions .action-button:first-child {
+    margin-left: 0;
+}
+
+.actions .action-button:last-child {
+    margin-right: 0;
+}
