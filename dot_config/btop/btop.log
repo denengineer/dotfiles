@@ -1,0 +1,106 @@
+
+2024/11/24 (19:04:49) | ===> btop++ v.1.4.0
+2024/11/24 (19:04:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (19:49:49) | ===> btop++ v.1.4.0
+2024/11/28 (19:49:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (20:20:01) | ===> btop++ v.1.4.0
+2024/11/28 (20:20:01) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (20:20:26) | ===> btop++ v.1.4.0
+2024/11/28 (20:20:26) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (20:20:32) | ===> btop++ v.1.4.0
+2024/11/28 (20:20:32) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (20:22:00) | ===> btop++ v.1.4.0
+2024/11/28 (20:22:00) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (20:22:44) | ===> btop++ v.1.4.0
+2024/11/28 (20:22:44) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (20:22:47) | ===> btop++ v.1.4.0
+2024/11/28 (20:22:47) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (20:24:34) | ===> btop++ v.1.4.0
+2024/11/28 (20:24:34) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (20:25:36) | ===> btop++ v.1.4.0
+2024/11/28 (20:25:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (20:25:51) | ===> btop++ v.1.4.0
+2024/11/28 (20:25:51) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (22:50:03) | ===> btop++ v.1.4.0
+2024/11/28 (22:50:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (22:50:20) | ===> btop++ v.1.4.0
+2024/11/28 (22:50:20) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/28 (22:50:35) | ===> btop++ v.1.4.0
+2024/11/28 (22:50:35) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/29 (12:34:08) | ===> btop++ v.1.4.0
+2024/11/29 (12:34:08) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/29 (16:06:47) | ===> btop++ v.1.4.0
+2024/11/29 (16:06:47) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2024/11/29 (16:06:57) | ===> btop++ v.1.4.0
+2024/11/29 (16:06:57) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2024/11/29 (16:07:04) | ===> btop++ v.1.4.0
+2024/11/29 (16:07:04) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2024/11/29 (16:07:18) | ===> btop++ v.1.4.0
+2024/11/29 (16:07:18) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/29 (16:07:49) | ===> btop++ v.1.4.0
+2024/11/29 (16:07:49) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2024/11/29 (18:56:38) | ===> btop++ v.1.4.0
+2024/11/29 (18:56:38) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2024/11/29 (20:30:07) | ===> btop++ v.1.4.0
+2024/11/29 (20:30:07) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2024/11/29 (20:32:36) | ===> btop++ v.1.4.0
+2024/11/29 (20:32:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/29 (20:32:45) | ===> btop++ v.1.4.0
+2024/11/29 (20:32:45) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/29 (20:35:41) | ===> btop++ v.1.4.0
+2024/11/29 (20:35:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/11/29 (20:35:42) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2024/11/29 (20:35:42) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2024/11/29 (20:37:12) | ===> btop++ v.1.4.0
+2024/11/29 (20:37:12) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/29 (20:51:33) | ===> btop++ v.1.4.0
+2024/11/29 (20:51:33) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/29 (20:51:57) | ===> btop++ v.1.4.0
+2024/11/29 (20:51:57) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/29 (21:20:51) | ===> btop++ v.1.4.0
+2024/11/29 (21:20:51) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/11/29 (21:20:56) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2024/11/29 (21:20:56) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2024/11/29 (21:23:46) | ===> btop++ v.1.4.0
+2024/11/29 (21:23:46) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/29 (21:44:26) | ===> btop++ v.1.4.0
+2024/11/29 (21:44:26) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2024/11/29 (21:48:37) | ===> btop++ v.1.4.0
+2024/11/29 (21:48:37) | WARNING: NVML: Failed to get GPU power usage: Not Supported
